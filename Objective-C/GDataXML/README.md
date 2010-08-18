@@ -1,0 +1,1 @@
+GDataXMLNode sample
